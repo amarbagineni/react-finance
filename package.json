@@ -1,0 +1,17 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "Packages for the rdux and react Experiments",
+  "main": "main.js",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Amar",
+  "license": "ISC"
+}
